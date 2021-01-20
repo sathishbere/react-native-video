@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render properly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+      "padding": 24,
+    }
+  }
+>
+  <Text
+    testID="Mynames"
+  >
+    0
+  </Text>
+  <Text />
+  <Text>
+    <div
+      style={
+        Object {
+          "height": "400",
+          "width": "640px",
+        }
+      }
+    />
+  </Text>
+</View>
+`;
